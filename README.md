@@ -27,5 +27,5 @@
 ## ⚙️ How to use
 1. **Clone this repository**
 ```bash
-git clone https://github.com/sures-suresh/daily learnings saver.git
-cd daily learnings saver
+git clone https://github.com/sures-suresh/daily-learnings-saver.git
+cd daily-learnings-saver
